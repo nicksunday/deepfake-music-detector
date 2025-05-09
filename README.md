@@ -1,4 +1,4 @@
-# Deepfake Music Detection (V1)
+# Deepfake Music Detection
 
 A machine learning project for detecting AI-generated music using mel spectrograms and a simple CNN classifier.
 This experiment was conducted as part of a research paper for a graduate course in machine learning.
@@ -98,8 +98,8 @@ See [`CREDITS.md`](./CREDITS.md) for full attribution.
 
 ### 🎧 Dataset Sources
 
-* [FakeMusicCaps Dataset on Hugging Face](https://huggingface.co/datasets/PoliMi-DeepFakes/FakeMusicCaps)
-* [Google MusicCaps (via AudioSet)](https://github.com/google-research/audioset/tree/master/music_caps)
+* [FakeMusicCaps Dataset on Zenodo](https://zenodo.org/records/15063698)
+* [Google MusicCaps on Hugging Face](https://huggingface.co/datasets/google/MusicCaps)
 
 ### 🔨 Tools and Libraries
 
